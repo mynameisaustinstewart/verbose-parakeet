@@ -594,4 +594,7 @@ pre tt:after {
   html {
     font-size: 100%;
   }
+  ul.menu li a {
+    font-size: 1.15rem !important;
+}
 }

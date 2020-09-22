@@ -26,7 +26,7 @@ const Header = () => (
         >
           Gatsby
         </Link>
-        <ul style={{ listStyle: "none", float: "right" }}>
+        <ul class="menu" style={{ listStyle: "none", float: "right" }}>
           <li style={{ display: "inline-block", marginRight: "1rem" }}>
             <Link
               style={{
